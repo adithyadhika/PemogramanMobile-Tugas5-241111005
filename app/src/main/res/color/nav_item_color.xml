@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- File ini disimpan di: res/color/nav_item_color.xml -->
+<!-- Mengatur warna item bottom navigation: aktif = merah, tidak aktif = abu -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#E53935" android:state_checked="true" />
+    <item android:color="#9E9E9E" />
+</selector>
